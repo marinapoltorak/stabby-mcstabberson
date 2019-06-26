@@ -24,6 +24,7 @@
     "karma-chrome-launcher": "^2.2.0",
     "karma-cli": "^1.0.1",
     "karma-jasmine": "^1.1.1",
+    "karma-jasmine-html-reporter": "^0.2.2",
     "karma-jquery": "^0.2.2",
     "karma-sourcemap-loader": "^0.3.7",
     "karma-webpack": "^2.0.13",
@@ -36,7 +37,6 @@
   "dependencies": {
     "bootstrap": "^4.3.1",
     "jquery": "^3.4.1",
-    "karma-jasmine-html-reporter": "^0.2.2",
     "popper.js": "^1.15.0"
   }
 }
