@@ -47,3 +47,15 @@
 // let dumbCat = new Cat('Stormageddon', 'greyish', '3', 'unknown', false);
 //
 // console.log(dumbCat);
+
+
+// this uses a fat arrow and other new things. good luck.
+// var pets = {
+// names: ['doofus', 'dumbo', 'daniel'],
+// owner: 'Troll',
+// description: function() {
+// return this.names.map((pet) => {console.log(`${this.owner} thinks this animal is dumb so he named it ${pet}.`)});
+// }
+// };
+//
+// pets.description();
